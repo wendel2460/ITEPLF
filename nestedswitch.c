@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//edit lang guys
 
 int main() {
     int category, item;
